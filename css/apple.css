@@ -305,3 +305,16 @@ banner
 .none a{
   color:#666;
 }
+/* 
+
+下拉搜索
+ */
+ .box li{
+  padding:10px 0px;
+  margin-left:30px;
+  margin-right:30px;
+  border-bottom:1px solid #ddd;
+ }
+ .box li a{
+  color:#fff;
+ }
